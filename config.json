@@ -5,8 +5,8 @@
   "botName": "Izumi - MD",
   "sessionName": "session",
   "pathimg": "./media/chris2.jpg",
-  "gamewaktu": infinity,
-  "limitCount": infinity,
+  "gamewaktu": 1000000,
+  "limitCount": 1000,
   "gcount": {
 	"prem": 9999,
 	"user": 30
