@@ -1149,12 +1149,12 @@ case prefix+'bc': case prefix+'broadcast':
 case prefix+'virtex3':
   if (!isPremium)return reply("Perintah Ini Khusus Pengguna Premium, Upgrade Fitur Premium Ke Owner, Ketik !owner")
   reply(mess.wait)
-var virtex = JSON.parse(fs.readFileSync('./fitur/virtex/virtex3.js'))
+var virtex = JSON.parse(fs.readFileSync('./fitur/virtex/2.txt'))
 break
 case prefix+'virtex2':
   if (isLimit(sender, isPremium, isOwner, limitCount, limit)) return reply ("Perintah Ini Khusus Pengguna Premium, Upgrade Fitur Premium Ke Owner, Ketik !owner")
   reply(mess.wait)
-var virtex = JSON.parse(fs.readFileSync('./fitur/virtex/virtex2.js'))
+var virtex = JSON.parse(fs.readFileSync('./fitur/virtex/4.txt'))
 break
   case prefix+'katagalau':
     case prefix+'galau':
