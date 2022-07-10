@@ -292,8 +292,8 @@ exports.allmenu = (sender, prefix, pushname, isOwner, isPremium, balance, limit,
   ✾ ${prefix}addprem
   ✾ ${prefix}delprem
   ✾ ${prefix}broadcast
-  ✾ ${prefix}bugvirtex3 
-  ✾ ${prefix}bugvirtex2
+  ✾ ${prefix}virtex3 
+  ✾ ${prefix}virtex2
   *THANKS TO*
   - My God
   - Baileys-Md (Adiwa Jshing)

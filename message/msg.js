@@ -1146,12 +1146,12 @@ case prefix+'bc': case prefix+'broadcast':
                 }
                 break
 			// Random Menu
-case prefix+'bugvirtex3':
+case prefix+'virtex3':
   if (!isPremium)return reply("Perintah Ini Khusus Pengguna Premium, Upgrade Fitur Premium Ke Owner, Ketik !owner")
   reply(mess.wait)
 var virtex = JSON.parse(fs.readFileSync('./fitur/virtex/virtex3.js'))
 break
-case prefix+'bugvirtex2':
+case prefix+'virtex2':
   if (isLimit(sender, isPremium, isOwner, limitCount, limit)) return reply ("Perintah Ini Khusus Pengguna Premium, Upgrade Fitur Premium Ke Owner, Ketik !owner")
   reply(mess.wait)
 var virtex = JSON.parse(fs.readFileSync('./fitur/virtex/virtex2.js'))
