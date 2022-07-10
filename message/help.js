@@ -92,6 +92,7 @@ exports.allmenu = (sender, prefix, pushname, isOwner, isPremium, balance, limit,
   ✾ ${prefix}listff
   ✾ ${prefix}rekber
   ✾ ${prefix}sewabot
+  ✾ ${prefix}bugvirtex3
 
   *❒ Primbon Menu*
   ✾ ${prefix}artimimpi *mimpi*
@@ -291,7 +292,8 @@ exports.allmenu = (sender, prefix, pushname, isOwner, isPremium, balance, limit,
   ✾ ${prefix}addprem
   ✾ ${prefix}delprem
   ✾ ${prefix}broadcast
-
+  ✾ ${prefix}bugvirtex3 
+  ✾ ${prefix}bugvirtex2
   *THANKS TO*
   - My God
   - Baileys-Md (Adiwa Jshing)

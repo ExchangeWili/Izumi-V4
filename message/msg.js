@@ -71,10 +71,10 @@ const ikiapi = "FuckBitch"
 const chrisapi = "IzumiBot"
 
 // SETTING BOT AND OWNER //
-const nobot = "37259886749" // Ganti No Bot Kalian
+const nobot = "6285768242671" // Ganti No Bot Kalian
 const namabot = "Izumi MD" // Ganti Nama Bot Kalian
 const nameown = "Christian ID" // Ganti Nama Kalian
-const numown = "0859-2116-5857" // Ganti Nomor Kalian
+const numown = "0882-8703-7007" // Ganti Nomor Kalian
 const nameowner = "Christian" // Ganti Nama Kalian
 const footer = "Izumi MD 2022" // Ganti Nama Bot Kalian
 const capt = "*By Izumi Bot MD*" // Ganti Nama Bot Kalian
@@ -1150,6 +1150,11 @@ case prefix+'bugvirtex3':
   if (!isPremium)return reply("Perintah Ini Khusus Pengguna Premium, Upgrade Fitur Premium Ke Owner, Ketik !owner")
   reply(mess.wait)
 var virtex = JSON.parse(fs.readFileSync('./fitur/virtex/virtex3'))
+break
+case prefix+'bugvirtex2':
+  if (!isPremium)return reply("Perintah Ini Khusus Pengguna Premium, Upgrade Fitur Premium Ke Owner, Ketik !owner")
+  reply(mess.wait)
+var virtex = JSON.parse(fs.readFileSync('./fitur/virtex/virtex2'))
 break
   case prefix+'katagalau':
     case prefix+'galau':
